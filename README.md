@@ -1,3 +1,3 @@
 # javabankingsystem
 A banking system using java swing.
-Developedm in Netbeans IDE
+Developed in Netbeans IDE
